@@ -1,0 +1,20 @@
+/*
+ Theme Name:   oceanwp-child
+ Theme URI:    http://nodomain
+ Author:       Christina
+ Author URI:   www.christinabollinger.dk
+ Template:     oceanwp
+ Version:      0.1
+*/
+
+
+  main#main {
+  background-color: white;
+}
+
+
+
+p {
+  font-family: helvetica;
+  font-size: 20px;
+}
